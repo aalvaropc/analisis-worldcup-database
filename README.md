@@ -28,6 +28,10 @@ Este proyecto consiste en la creación y gestión de una base de datos denominad
 
 - **Descripción**: Esta tabla almacena estadísticas físicas y disciplinarias de los jugadores en cada temporada del torneo. Puede incluir métricas como duelos ganados, faltas cometidas y tarjetas recibidas.
 
+### Modelado de la base de datos
+
+<img src="./assets/modelo.png" width="400"/>
+
 ## Fuente de Datos
 
 El conjunto de datos original se obtuvo de la siguiente fuente:
